@@ -3,7 +3,9 @@
 - I am a QA engineer, automation engineer, and tester with a wealth of experience. 
 - I obtained my degree in Information Science from Jimma University.
 - I am driven by curiosity and deeply passionate about my work. I'm constantly seeking new ways to improve and innovate in the field
-- [You can download my CV as PDF from my Google Drive](https://drive.google.com/file/d/1nPGNeqPZ_b-7UwFxiMZ5Rr29l0pbfnxi/view)
+- You can download my CV as PDF from my Google Drive [CLICK HERE](https://drive.google.com/file/d/1nPGNeqPZ_b-7UwFxiMZ5Rr29l0pbfnxi/view)
+- Samples Of My Previous Projects
+    - Test case for checking the checkout process (in English). [gooogle drive file](https://docs.google.com/spreadsheets/d/1TmMHFrw7GWbEfpZ-UH5tBA6ktnRqg8BytLe1LPveqr0/edit?gid=1580704741#gid=1580704741)
 
 
 
