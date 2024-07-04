@@ -5,7 +5,7 @@
 - I am driven by curiosity and deeply passionate about my work. I'm constantly seeking new ways to improve and innovate in the field
 - You can download my CV as PDF from my Google Drive [CLICK HERE](https://drive.google.com/file/d/1nPGNeqPZ_b-7UwFxiMZ5Rr29l0pbfnxi/view)
 - I Am Certified In
--    Python Programming From Huawei Company [Get The Cirtificate](https://drive.google.com/file/d/13_EomGOuA6wbRtjs2ONi8YSzorFVRlWR/view)
+     Python Programming From Huawei Company [Get The Cirtificate](https://drive.google.com/file/d/13_EomGOuA6wbRtjs2ONi8YSzorFVRlWR/view)
 - Samples Of My Previous Projects
     - Test case for checking the checkout process. [Click Here To Get The File](https://docs.google.com/spreadsheets/d/1TmMHFrw7GWbEfpZ-UH5tBA6ktnRqg8BytLe1LPveqr0/edit?gid=1580704741#gid=1580704741)
     - Detailed Bug Report In A Given Project. [Click Here To Get The File](https://docs.google.com/spreadsheets/d/1sHaw2ou-cFQ690TWhdj-y7cjldnNCT_o/edit?gid=546812618#gid=546812618)
